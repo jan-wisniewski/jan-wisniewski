@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janek</h1>
+<h1 align="center">Jan Wiśniewski</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
 - 📫 **info@janwisniewski.com**
