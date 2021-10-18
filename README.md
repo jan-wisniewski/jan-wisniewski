@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janek</h1>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Python, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jan-wisniewski](https://github.com/jan-wisniewski)
-
-- 📫 How to reach me **info@janwisniewski.com**
+- 📫 **info@janwisniewski.com**
 
 	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	
